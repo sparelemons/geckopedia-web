@@ -35,7 +35,7 @@ import Footer from './../partials/Footer.vue'
 export default {
   name: 'Home',
   created () {
-    document.title = "Alpha Squeeze";
+    document.title = "Geckopedia";
   },
   components: {
     Header,
