@@ -1,0 +1,61 @@
+{
+  "updated": 1610857154,
+  "story": "Alpha Squeeze is the product of a one person dev shop called Spare Lemons. After struggling to find a decent trading journal that didn't cost an arm and a leg, I eventually gave up and decided to build one. I really hope Alpha Squeeze is as useful for you as it is for me and that you discover valuable insights from your trades.\n\nIf you have ideas on how to improve the app, I encourage you to take advantage of the feedback feature in Settings.\n\nKeep squeezing!\n\n- George",
+  "frequently_asked_questions": [
+    {
+      "q": "What is this?",
+      "a": "Alpha Squeeze attempts to help you trade more profitably. It tries to do this in two ways. Firstly, by helping you manage risk with the calculator. Secondly, by helping you evaluate your trading habits with a journal and stats. At the end of the day though, it's just a tool. As with any tool, it can be worthless or invaluable depending on how you use it.",
+      "code": "what"
+    },
+    {
+      "q": "How do I create new journal entries?",
+      "a": "To create a new entry, you first assess your risk by using the calculator. A \"Create New Entry\" can then be found towards the bottom. Remember - calculating risk and sizing appropriately is an essential habit for any trader.",
+      "code": "create"
+    },
+    {
+      "q": "How can I add images to my journal entries?",
+      "a": "You can either use a copied image URL, such as those provided by some charting apps, or pick one from your image library. You have the opportunity to attach images when creating or updating entries.",
+      "code": "screenshots"
+    },
+    {
+      "q": "Do you have access to my trading data?",
+      "a": "Your trading data is only ever stored on your phone and your iCloud account (if turned on). Additionally, Alpha Squeeze never asks you to register or requires any personal information from you.",
+      "code": "data"
+    },
+    {
+      "q": "Can I export my data?",
+      "a": "Not yet! But soon. Exporting trading data is something that could be very useful for people. Once implemented, you'll be able to analyze exported data in your favorite spreadsheet application or import it into other software.",
+      "code": "export"
+    },
+    {
+      "q": "How can I delete entries or trading strategies?",
+      "a": "You can delete entries or strategies in one of two ways. From the list views of each, you can swipe left on them. There's also a \"delete\" button inside the detail views. After deleting, you'll have a few moments to undo the delete.",
+      "code": "delete"
+    },
+    {
+      "q": "Is my data backed up?",
+      "a": "Yep. Your trading journal is automatically synced to your iCloud account. If this gets disabled on your device, simply go to Settings > Your Apple ID / iCloud account > iCloud and make sure Alpha Squeeze is enabled.",
+      "code": "backed_up"
+    },
+    {
+      "q": "Will my data be synced across my devices?",
+      "a": "As long as iCloud is enabled for Alpha Squeeze, your trading data will be synced across your iOS devices.",
+      "code": "icloud"
+    },
+    {
+      "q": "Can I suggest features? Or report bugs?",
+      "a": "Absolutely. As a one-person dev team, I will be personally responding to any feedback. Your help in prioritizing the roadmap and identifying any bugs that may pop up is much appreciated. There's a feedback button in the settings tab.",
+      "code": "feedback"
+    },
+    {
+      "q": "What does this cost?",
+      "a": "Alpha Squeeze allows you to create some free entries to give you a feel for the app. Beyond that, there's a small monthly fee to unlock full access. Your support is much appreciated and allows me to keep maintaining the app. Also, it's worth mentioning that if you jump on the current introductory price, you'll lock in that same price for as long as you're a subscriber (even price rises later).",
+      "code": "cost"
+    },
+    {
+      "q": "What's with the entries when I first open the app?",
+      "a": "Some demo entries gets created when you first install the app to help illustrate what entries look like. You're free to edit or delete them as you wish.",
+      "code": "demo"
+    }
+  ]
+}
