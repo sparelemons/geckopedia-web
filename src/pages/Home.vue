@@ -29,7 +29,7 @@
 import Header from './../partials/Header.vue'
 import PageIllustration from './../partials/PageIllustration.vue'
 import HeroHome from './../partials/HeroHome.vue'
-import Process from './../partials/Process'
+// import Process from './../partials/Process'
 import Footer from './../partials/Footer.vue'
 
 export default {
@@ -41,7 +41,7 @@ export default {
     Header,
     PageIllustration,
     HeroHome,
-    Process,
+    // Process,
     Footer,
   },
 }

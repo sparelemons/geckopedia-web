@@ -9,7 +9,8 @@
           <!-- Content -->
           <div class="md:col-span-7 lg:col-span-7 mb-8 md:mb-0 text-center md:text-left">
             <h1 class="h1 lg:text-6xl mb-4 font-red-hat-display font-extrabold" data-aos="fade-down">
-              <img :src="require('@/images/alpha-logo.svg')" width="344" alt="Alpha Squeeze" aria-hidden="true" />
+<!--              <img :src="require('@/images/geckopedia-logo.png')" width="150" alt="Geckopedia" aria-hidden="true" />-->
+              Geckopedia
             </h1>
             <p class="text-xl text-gray-600 dark:text-gray-400" data-aos="fade-down" data-aos-delay="150">
               We like the Geckos. We like looking at Geckos. Take a trip through the geckoverse with Geckopedia!
@@ -20,19 +21,19 @@
                 <svg class="w-3 h-3 fill-current text-teal-400 mr-2 flex-shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                 </svg>
-                <span>Browse by rank or ID.</span>
+                <span>Browse by rank or ID</span>
               </li>
               <li class="flex items-center mb-2">
                 <svg class="w-3 h-3 fill-current text-teal-400 mr-2 flex-shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                 </svg>
-                <span>Search by ID or rank.</span>
+                <span>Search by ID or rank</span>
               </li>
               <li class="flex items-center mb-2">
                 <svg class="w-3 h-3 fill-current text-teal-400 mr-2 flex-shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                 </svg>
-                <span>Keep a list of favorite Geckos.</span>
+                <span>Keep a list of favorite Geckos</span>
               </li>
             </ul>
             <p class="mt-8" data-aos="fade-down">
@@ -62,7 +63,7 @@
                 </defs>
               </svg>
               <!-- Image inside mockup size: 290x624px (or 580x1248px for Retina devices) -->
-              <img class="absolute" :src="require('@/images/screenshot-11-pro-max-calculator.png')" width="290" height="624" style="max-width: 84.33%;" alt="Trading Journal" />
+              <img class="absolute" :src="require('@/images/gecko-screen.jpg')" width="290" height="624" style="max-width: 84.33%;" alt="Trading Journal" />
               <!-- iPhone mockup -->
               <img class="relative max-w-full mx-auto md:mr-0 md:max-w-none h-auto pointer-events-none" :src="require('@/images/iphone-mockup.png')" width="344" height="674" alt="iPhone mockup" aria-hidden="true" />
 

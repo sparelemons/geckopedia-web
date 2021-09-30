@@ -39,18 +39,8 @@
               </p>
 
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
-                The Alpha Squeeze app stores and processes personal data that you have provided to us,
-                in order to provide our Service. It’s your responsibility to keep your phone and access
-                to the app secure. We therefore recommend that you do not jailbreak or root your phone,
-                which is the process of removing software restrictions and limitations imposed by the
-                official operating system of your device. It could make your phone vulnerable to
-                malware/viruses/malicious programs, compromise your phone’s security features and
-                it could mean that the Alpha Squeeze app won’t work properly or at all.
-              </p>
-
-              <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
                 The app does use third party services that declare their own Terms and Conditions.
-                See <a target="_blank" href="https://developer.yahoo.com/flurry/legal-privacy/terms-service/flurry-analytics-terms-service.html#:~:text=You%20will%20not%20(and%20will,source%20as%20part%20of%20your" class="text-gray-600 dark:text-gray-400 hover:underline transition duration-150 ease-in-out">Flurry's TOS</a>.
+                See <a target="_blank" href="https://marketingplatform.google.com/about/analytics/terms/us/" class="text-gray-600 dark:text-gray-400 hover:underline transition duration-150 ease-in-out">Google Analytic's TOS</a>.
               </p>
 
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
@@ -105,7 +95,7 @@
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
                 We may update our Terms and Conditions from time to time. Thus, you are advised to review this
                 page periodically for any changes. We will notify you of any changes by posting the new Terms
-                and Conditions on this page. These terms and conditions are effective as of <b>2020-12-26</b>.
+                and Conditions on this page. These terms and conditions are effective as of <b>2021-09-30</b>.
               </p>
             </div>
 
